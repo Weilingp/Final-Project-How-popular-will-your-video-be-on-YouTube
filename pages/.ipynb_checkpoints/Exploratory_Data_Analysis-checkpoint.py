@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(page_title = "Exploratory_Data_Analysis",page_icon='▶️')
 
 from PIL import Image
 

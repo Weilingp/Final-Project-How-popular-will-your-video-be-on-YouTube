@@ -2,6 +2,7 @@ import streamlit as st
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import pandas as pd
+st.set_page_config(page_title = "TopID_Comment_Content",page_icon='▶️')
 
 
 df = pd.read_csv('Cleaned_comments_witth Label.csv')

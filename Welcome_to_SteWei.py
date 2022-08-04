@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title = "Welcome to SteWei",page_icon='▶️')
 
 
-video = ('Video_main_page.mp4')
+video = ('main_page_video_streamlit.mp4')
 st.title("Hi, beautiful people, welcome to my final presentation 🤗 ")
 st.video(video)
 
