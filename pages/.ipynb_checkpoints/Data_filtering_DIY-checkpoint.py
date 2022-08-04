@@ -1,7 +1,6 @@
 
 import pandas as pd
 import streamlit as st
-from st_aggrid import AgGrid, GridOptionsBuilder
 
 iris1 = pd.read_csv("GBvideos_col_centiment_analysis.csv")
 
