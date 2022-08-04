@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 from st_aggrid import AgGrid, GridOptionsBuilder
 from st_aggrid.shared import GridUpdateMode
-pip install --upgrade streamlit
+!pip install --upgrade streamlit
 
 iris1 = pd.read_csv("GBvideos_col_centiment_analysis.csv")
 
