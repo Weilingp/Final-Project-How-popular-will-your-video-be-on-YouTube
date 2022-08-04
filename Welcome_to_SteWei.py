@@ -2,9 +2,6 @@ import streamlit as st
 
 st.set_page_config(page_title = "Welcome to SteWei",page_icon='▶️')
 
-import numpy as np
-import pandas as pd
-import seaborn as sns
 
 video = ('Video_main_page.mp4')
 st.title("Hi, beautiful people, welcome to my final presentation 🤗 ")
