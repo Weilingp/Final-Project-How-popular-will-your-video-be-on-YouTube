@@ -3,7 +3,8 @@ import pandas as pd
 import streamlit as st
 from st_aggrid import AgGrid, GridOptionsBuilder
 from st_aggrid.shared import GridUpdateMode
-st.set_page_config(page_title = "Data_filtering_DIY",page_icon='▶️')
+
+
 
 iris1 = pd.read_csv("GBvideos_col_centiment_analysis.csv")
 
