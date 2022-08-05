@@ -1,10 +1,8 @@
 numpy==1.21.5
-numpydoc==1.2
 streamlit==1.11.1
 streamlit-aggrid==0.3.2
 pandas==1.4.3
-pandas-alive== 0.2.4
-pandoc==2.2
+
 
 wordcloud==1.8.1
 matplotlib==3.5.1
@@ -15,6 +13,4 @@ nltk==3.7
 
 seaborn==0.11.2
 
-playwright==1.24.0
 plotly==5.9.0
-plotly-express==0.4.1
