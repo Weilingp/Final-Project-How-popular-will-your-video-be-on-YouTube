@@ -1,8 +1,5 @@
 import pandas as pd
 import streamlit as st
-st.set_page_config(page_title = "Top_20_Channels",page_icon='▶️')
-
-
 
 
 
@@ -11,12 +8,14 @@ path = ''
 
 df = pd.read_csv('GBvideos_col_centiment_analysis.csv')  
 
+
 def channel_with_more_videos(n):
     
     chanelsbysize =df.groupby("channel_title").size().reset_index(name="video_count")
     chanelsbysize = chanelsbysize.sort_values("video_count", ascending=False).head(n)
     top_recommendations = chanelsbysize['channel_title'].reset_index()
-    top_recommendations.rename(columns = {'index':'Total_Videos','channel_title':'Channel_Title'},inplace =True)
+    top_recommendations.rename(columns =
+    {'index':'Total_Videos','channel_title':'Channel_Title'},inplace =True)
     top_recommendations= top_recommendations.sort_values("Total_Videos", ascending=False).head(n)
     return top_recommendations
 
