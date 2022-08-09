@@ -18,7 +18,7 @@ df = comments[["video_id", "video_count", "predictions", "perc"]]#.reset_index(i
 #st.dataframe(df.head())
 #input the video we want to analyse
 
-video = st.text_input('Type The VideoID to view the percentage of spam comments', 'VideoID')
+video = st.text_input('Type The VideoID to view the percentage of spam comments', 'jt2OHQh0HoQ')
 
 st.write('This is the classifications of the comments of the video', video)
 
@@ -45,7 +45,7 @@ def ploting_spam_comments_per_video(videoid):
 
 st.header("Percentage of spam comments")
  
-if st.button('Comments'):
+if st.button('Click Here'):
     
     viewer_sentiments = ploting_spam_comments_per_video(videoid)
     #st.text(channel_choise)
