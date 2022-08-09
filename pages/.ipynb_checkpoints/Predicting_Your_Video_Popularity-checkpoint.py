@@ -15,7 +15,7 @@ let us help you predict the number of views you can have on youtube
 
 loaded_model = pickle.load(open('models/trained_pipe_randomforest_views_prediction.sav', 'rb'))
  
-video_id = st.text_input("VideoId")
+#video_id = st.text_input("VideoId")
 tag = st.text_input("Tag")
 title = st.text_input("Title")
 channel_title = st.text_input("Channel_title")
@@ -23,7 +23,7 @@ category_id = st.number_input("Category_id")
 Description = st.text_input("Description")
 
 channel_data = pd.DataFrame({
-    "video_id": [video_id],
+    #"video_id": [video_id],
     "tag": [tag],
     "title": [title],
     "category_id": [category_id],
@@ -31,7 +31,7 @@ channel_data = pd.DataFrame({
     "description": [Description]
     #"views": [100000]
 })
-category = pd.read_csv("CSV_Files/category_names.csv")
+category = pd.read_csv("category_names.csv")
 
 df = pd.merge(channel_data, category)
 
@@ -78,7 +78,7 @@ df['Analysis_title']= df["polarity_title"].apply(getAnalysis)
 df['Analysis_tags']= df["polarity_tag"].apply(getAnalysis)
 df['Analysis_descrp']= df["polarity_description"].apply(getAnalysis)
 
-df.set_index('video_id')
+#df.set_index('video_id')
 
 channel_features = df[["category_id", "tags_words", "title_words", "category_names",
                     "tag_length",
@@ -96,6 +96,8 @@ if st.button('Views Prediction'):
     
     prediction = loaded_model.predict(channel_features)
     st.write("the channel can have:", prediction, "als views")
+    st.write("Our prediction is the number of 'VIEW PREDICTION' +/- '1,765,773 mean_absolute_error' ")
+
 else:
      st.write('predict the views!')
 
