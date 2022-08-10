@@ -16,11 +16,11 @@ let us help you predict the number of views you can have on youtube
 loaded_model = pickle.load(open('models/trained_pipe_randomforest_views_prediction.sav', 'rb'))
  
 #video_id = st.text_input("VideoId")
-tag = st.text_input("Tag")
-title = st.text_input("Title")
-channel_title = st.text_input("Channel_title")
+tag = st.text_input("Tag","#visitseychelles")
+title = st.text_input("Title"," SEYCHELLES | EAST AFRICA TRAVEL VLOG ")
+channel_title = st.text_input("Channel_title"," Being Neiicey")
 category_id = st.number_input("Category_id")
-Description = st.text_input("Description")
+Description = st.text_input("Description","Seychelles, East Africa Vlog! Wow... what an amazing trip, I got to meet such kind hearted, fun and intelligent black women. Beautiful beaches & scenery ... bucket list destination CHECK! Travel in Luxury w/ Chidi Ashley Travels https://luxetribes.com you won't regret it!!   Follow me ►  https://instagram.com/shaneicecrystal  Places we went to.  Kempinski Resort & Spa (our hotel) Mingles Bar Rock Pool Praslin Island La Digue Craft Village Masion  Takamaka Rum Tour Vallee De Mai ")
 
 channel_data = pd.DataFrame({
     #"video_id": [video_id],
