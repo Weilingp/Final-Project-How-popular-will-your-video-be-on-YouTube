@@ -1,4 +1,14 @@
 # How_popular_will_this_video_be_on_YouTube_in_GB?
+## Table of contents
+* [Project Description](#Project Description)
+* [Dataset / Source](#Dataset / Source)
+* [Data sub-fields](#Data sub-fields)
+* [Tools (software, Python libraries…)](#Tools (software, Python libraries…))
+* [GitHub link](#GitHub link)
+* [Streamlit APP link](#Streamlit APP link)
+
+
+
 This is the final project for my Data Science BootCamp by WBS Coding School in 2022.
 
 YouTube is the second largest search engine in the world next to Google. YouTube has a list of trending videos that is updated constantly. Analyzing these trending videos can give content creators greater perspective and knowledge for increasing their popularity and brand of their channels.
@@ -36,27 +46,29 @@ https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub
 
 ## Data sub-fields
 The project these sub-fields of the Data World:
-• Python, Pandas
-• 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 
+* Python, Pandas
+* 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 
               (” 
               𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻,
               𝗣𝗼𝗽𝘂𝗹𝗮𝗿𝗶𝘁𝘆,
               𝗡𝗟𝗧𝗞 
               ”) 
-• 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 (𝗧𝗮𝗯𝗹𝗲𝗮𝘂)
-• 𝗠𝗼𝗱𝗲𝗹𝘀 𝗱𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁;
+* 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 (𝗧𝗮𝗯𝗹𝗲𝗮𝘂)
+* 𝗠𝗼𝗱𝗲𝗹𝘀 𝗱𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁;
 
 
 ## Tools (software, Python libraries…)
 Analysis for this project is done by using below different tools:
-•	GitHub
-•	Tableau
-•	Python
-•	Pandas
-•	Scikit-Learn
-•	NLTK
-•	Streamlit
 
+```
+$ 	GitHub
+$ 	Tableau
+$ 	Python
+$ 	Pandas
+$ 	Scikit-Learn
+$ 	NLTK
+$ 	Streamlit
+```
 
 ## GitHub link
 https://github.com/Weilingp/Youtube_Analysis
