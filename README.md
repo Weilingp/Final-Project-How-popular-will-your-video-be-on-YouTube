@@ -1,11 +1,12 @@
 # How_popular_will_this_video_be_on_YouTube_in_GB?
+
 ## Table of contents
-*[Project Description](#Project Description)
-*[Dataset / Source](#Dataset / Source)
-*[Data sub-fields](#Data sub-fields)
-*[Tools (software, Python libraries…)](#Tools (software, Python libraries…))
-*[GitHub link](#GitHub link)
-*[Streamlit APP link](#Streamlit APP link)
+* [Project Description](#Project-Description)
+* [Dataset / Source](#Dataset-/-Source)
+* [Data sub-fields](#Data-sub-fields)
+* [Tools (software, Python libraries…)](#Tools-(software,-Python-libraries…))
+* [GitHub link](#GitHub link)
+* [Streamlit APP link](#Streamlit-APP-link)
 
 
 
