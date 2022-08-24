@@ -17,24 +17,24 @@ YouTube is the second largest search engine in the world next to Google. YouTube
 Besides helping professional YouTubers achieve their successful video marketing business, we also wish to support other non-professional YouTubers to improve their video more exposure rate and ultimately get the videos trended to match wide number of knowledge-searchers.
 As of 2022, YouTube has 51+ million active channels and our friend Migul is one of the Youtuber creator. He made more than 100 videos and posted on different social median platforms. 
 
-    𝗕𝘂𝘁 𝗵𝗲 𝗵𝗮𝘀 𝘁𝘄𝗼 𝗺𝗮𝗷𝗼𝗿 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀. 
-    * He doesnot know how to make video popular or get video possible trended?
-    * He has to pent hours and hours a day to read comments from his audiants.
+𝗕𝘂𝘁 𝗵𝗲 𝗵𝗮𝘀 𝘁𝘄𝗼 𝗺𝗮𝗷𝗼𝗿 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀. 
+* He doesnot know how to make video popular or get video possible trended?
+* He has to pent hours and hours a day to read comments from his audiants.
 
-    𝗦𝗼,𝘄𝗲 𝗮𝘀 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝘁𝗿𝗮𝗻𝗲𝗲 𝘄𝗼𝘂𝗹𝗱 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗱𝗿𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝘁𝗼 𝗵𝗮𝘃𝗲 𝗮 𝗱𝗲𝗲𝗽𝗲𝗿 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝘄𝗵𝗲𝗿𝗲 𝗵𝗶𝘀 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗽𝗼𝘀𝘁𝗶𝗼𝗻 𝗶𝘀 𝗶𝗻 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝘄𝗼𝗿𝗹𝗱 𝗮𝗻𝗱 𝗳𝗶𝗻𝗱 𝗱𝗮𝘁𝗮-𝗯𝗮𝘀𝗲𝗱 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗵𝗶𝗺. 
+𝗦𝗼,𝘄𝗲 𝗮𝘀 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝘁𝗿𝗮𝗻𝗲𝗲 𝘄𝗼𝘂𝗹𝗱 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗱𝗿𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝘁𝗼 𝗵𝗮𝘃𝗲 𝗮 𝗱𝗲𝗲𝗽𝗲𝗿 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝘄𝗵𝗲𝗿𝗲 𝗵𝗶𝘀 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗽𝗼𝘀𝘁𝗶𝗼𝗻 𝗶𝘀 𝗶𝗻 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝘄𝗼𝗿𝗹𝗱 𝗮𝗻𝗱 𝗳𝗶𝗻𝗱 𝗱𝗮𝘁𝗮-𝗯𝗮𝘀𝗲𝗱 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗵𝗶𝗺. 
 
-    * Here are our initial questions:
-    * What are YouTube Trending Videos?
-    * Where is Miguel's channel positioned in YouTube trending channel?
-    * How big share has this Channel compared to the rest of all others in    
-        YouTube trending videos?
-    * How can he measure if his videos can be populer or not? 
-    * What are the most popular categories in trending video?
-    * Usually, how long did it take for a video to be trended?
-    * Which are the videos having the greatest number of likes?
-    * Has the higher views also more positive comments?
-    * What are the title types used in trending videos: pos,neg,neu? 
-    * Has more negative title higher number of views?
+* Here are our initial questions:
+* What are YouTube Trending Videos?
+* Where is Miguel's channel positioned in YouTube trending channel?
+* How big share has this Channel compared to the rest of all others in    
+    YouTube trending videos?
+* How can he measure if his videos can be populer or not? 
+* What are the most popular categories in trending video?
+* Usually, how long did it take for a video to be trended?
+* Which are the videos having the greatest number of likes?
+* Has the higher views also more positive comments?
+* What are the title types used in trending videos: pos,neg,neu? 
+* Has more negative title higher number of views?
 
 
 ## Project Description
