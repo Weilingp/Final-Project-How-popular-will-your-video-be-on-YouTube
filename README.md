@@ -1,15 +1,16 @@
 # How_popular_will_this_video_be_on_YouTube_in_GB?
 
 ## Table of contents
+* [General info](#general-info)
 * [Project Description](#Project-Description)
 * [Dataset / Source](#Dataset-/-Source)
 * [Data sub-fields](#Data-sub-fields)
 * [Tools (software, Python libraries…)](#Tools-(software,-Python-libraries…))
-* [GitHub link](#GitHub link)
+* [GitHub link](#GitHub-link)
 * [Streamlit APP link](#Streamlit-APP-link)
 
 
-
+## General info
 This is the final project for my Data Science BootCamp by WBS Coding School in 2022.
 
 YouTube is the second largest search engine in the world next to Google. YouTube has a list of trending videos that is updated constantly. Analyzing these trending videos can give content creators greater perspective and knowledge for increasing their popularity and brand of their channels.
