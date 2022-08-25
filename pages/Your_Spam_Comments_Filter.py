@@ -19,7 +19,7 @@ good_comment = non_spam_comments.loc[non_spam_comments["true_values"]==0, :]
 #st.dataframe(df.head())
 #input the video we want to analyse
 
-video = st.text_input('Type The VideoID to view the percentage of spam comments', 'VideoID')
+video = st.text_input('Type The VideoID to view the percentage of spam comments', 'jt2OHQh0HoQ')
 
 #st.write('This is the classifications of the comments of the video', video)
 
