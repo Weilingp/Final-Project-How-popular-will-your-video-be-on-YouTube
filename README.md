@@ -27,8 +27,7 @@ As of 2022, YouTube has 51+ million active channels and our friend Migul is one 
 * Here are our initial questions:
 * What are YouTube Trending Videos?
 * Where is Miguel's channel positioned in YouTube trending channel?
-* How big share has this Channel compared to the rest of all others in    
-    YouTube trending videos?
+* How big share has this Channel compared to the rest of all others in YouTube trending videos?
 * How can he measure if his videos can be populer or not? 
 * What are the most popular categories in trending video?
 * Usually, how long did it take for a video to be trended?
