@@ -1,4 +1,4 @@
-# How_popular_will_this_video_be_on_YouTube_in_GB?
+# How_popular_will_Your_video_be_on_YouTube_in_GB?
 <img width="1436" alt="图片" src="https://user-images.githubusercontent.com/104377828/186529341-036d9141-1dfd-4a33-8729-5b6a31647d89.png">
 
 ## Table of contents
@@ -6,7 +6,6 @@
 * [Project Description](#Project-Description)
 * [Dataset / Source](#Dataset-/-Source)
 * [Data sub-fields](#Data-sub-fields)
-* [Tools (software, Python libraries…)](#Tools-(software,-Python-libraries…))
 * [GitHub link](#GitHub-link)
 * [Streamlit APP link](#Streamlit-APP-link)
 
@@ -52,25 +51,14 @@ The project these sub-fields of the Data World:
 * 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 
               (” 
               𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻,
-              𝗣𝗼𝗽𝘂𝗹𝗮𝗿𝗶𝘁𝘆,
+              𝗥𝗮𝗻𝗱𝗼𝗺𝗳𝗼𝗿𝗲𝘀𝘁,
+              𝗣𝗼𝗽𝘂𝗹𝗮𝗿𝗶𝘁y based,
               𝗡𝗟𝗧𝗞 
               ”) 
 * 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 (𝗧𝗮𝗯𝗹𝗲𝗮𝘂)
 * 𝗠𝗼𝗱𝗲𝗹𝘀 𝗱𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁;
+* 𝗚𝗶𝘁𝗛𝘂𝗯
 
-
-## Tools (software, Python libraries…)
-Analysis for this project is done by using below different tools:
-
-```
-$ GitHub
-$ Tableau
-$ Python
-$ Pandas
-$ Scikit-Learn
-$ NLTK
-$ Streamlit
-```
 
 ## GitHub link
 https://github.com/Weilingp/Youtube_Analysis
