@@ -10,7 +10,7 @@ st.title("Views Prediction")
  
 st.write("""
 ### Predicting the Views
-let us help you predict the number of views you can have on youtube 
+let us help you to predict the number of views you might get on YouTube. In our case study, Miguel's video marketplace is in category_id 19 (Trevell segment).
 """)
 
 loaded_model = pickle.load(open('models/trained_pipe_randomforest_views_prediction.sav', 'rb'))
@@ -19,7 +19,7 @@ loaded_model = pickle.load(open('models/trained_pipe_randomforest_views_predicti
 tag = st.text_input("Tag","#visitseychelles")
 title = st.text_input("Title"," SEYCHELLES | EAST AFRICA TRAVEL VLOG ")
 channel_title = st.text_input("Channel_title","Being Neiicey")
-category_id = st.number_input("Category_id")
+category_id = st.number_input("Category_id",19.00)
 Description = st.text_input("Description","Seychelles, East Africa Vlog! Wow... what an amazing trip, I got to meet such kind hearted, fun and intelligent black women. Beautiful beaches & scenery ... bucket list destination CHECK!Travel in Luxury w/ Chidi Ashley Travels https://luxetribes.com you won't regret it!! ")
 
 channel_data = pd.DataFrame({

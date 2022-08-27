@@ -10,7 +10,7 @@ st.title("Views Prediction")
  
 st.write("""
 ### Predicting the Views
-let us help you predict the number of views you can have on youtube 
+let us help you to predict the number of views you might get on YouTube. In our case study, Miguel's video marketplace is in category_id 19 (Trevell segment).
 """)
 
 loaded_model = pickle.load(open('models/trained_pipe_randomforest_views_prediction.sav', 'rb'))
@@ -18,9 +18,9 @@ loaded_model = pickle.load(open('models/trained_pipe_randomforest_views_predicti
 #video_id = st.text_input("VideoId")
 tag = st.text_input("Tag","#visitseychelles")
 title = st.text_input("Title"," SEYCHELLES | EAST AFRICA TRAVEL VLOG ")
-channel_title = st.text_input("Channel_title"," Being Neiicey")
-category_id = st.number_input("Category_id")
-Description = st.text_input("Description","Seychelles, East Africa Vlog! Wow... what an amazing trip, I got to meet such kind hearted, fun and intelligent black women. Beautiful beaches & scenery ... bucket list destination CHECK! Travel in Luxury w/ Chidi Ashley Travels https://luxetribes.com you won't regret it!!   Follow me ►  https://instagram.com/shaneicecrystal  Places we went to.  Kempinski Resort & Spa (our hotel) Mingles Bar Rock Pool Praslin Island La Digue Craft Village Masion  Takamaka Rum Tour Vallee De Mai ")
+channel_title = st.text_input("Channel_title","Being Neiicey")
+category_id = st.number_input("Category_id",19.00)
+Description = st.text_input("Description","Seychelles, East Africa Vlog! Wow... what an amazing trip, I got to meet such kind hearted, fun and intelligent black women. Beautiful beaches & scenery ... bucket list destination CHECK!Travel in Luxury w/ Chidi Ashley Travels https://luxetribes.com you won't regret it!! ")
 
 channel_data = pd.DataFrame({
     #"video_id": [video_id],
@@ -29,7 +29,7 @@ channel_data = pd.DataFrame({
     "category_id": [category_id],
     "channel_title":[channel_title],
     "description": [Description]
-    #"views": [100000]
+    
 })
 category = pd.read_csv("category_names.csv")
 
@@ -92,12 +92,10 @@ channel_features = df[["category_id", "tags_words", "title_words", "category_nam
 
 #tell once click let do the prediction
 # prediction
-if st.button('Views Prediction'):
+if st.button('Views Prediction') and channel_features.shape[0] != 0:
     
     prediction = loaded_model.predict(channel_features)
-    st.write("the channel can have:", prediction, "als views")
-    st.write("Our prediction is the number of 'VIEW PREDICTION' +/- '1,765,773 mean_absolute_error' ")
-
+    st.write("the channel can have between:", prediction - 1765773, " and ", prediction + 1765773, " views")
 else:
      st.write('predict the views!')
 
