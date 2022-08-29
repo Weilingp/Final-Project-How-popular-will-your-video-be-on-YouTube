@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # How popular will Your video be on YouTube - Final Project?
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 [![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,figma&theme=light)](https://skills.thijs.gg)
+=======
+# How popular will Your video be on YouTube?
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,streamlit,figma&theme=light)](https://skills.thijs.gg)
+>>>>>>> c46cddb837447bd985a0edc52ee4bc816860d2cd
 
 
 
