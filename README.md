@@ -1,5 +1,5 @@
 # How popular will Your video be on YouTube - Final Project?
-[![Streamlit App]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 [![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,figma&theme=light)](https://skills.thijs.gg)
 
 

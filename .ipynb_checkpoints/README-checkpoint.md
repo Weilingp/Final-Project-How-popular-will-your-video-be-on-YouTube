@@ -1,4 +1,9 @@
-# How_popular_will_this_video_be_on_YouTube_in_GB?
+# How popular will Your video be on YouTube - Final Project?
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,figma&theme=light)](https://skills.thijs.gg)
+
+
+
 <img width="1436" alt="图片" src="https://user-images.githubusercontent.com/104377828/186529341-036d9141-1dfd-4a33-8729-5b6a31647d89.png">
 
 ## Table of contents
@@ -6,7 +11,6 @@
 * [Project Description](#Project-Description)
 * [Dataset / Source](#Dataset-/-Source)
 * [Data sub-fields](#Data-sub-fields)
-* [Tools (software, Python libraries…)](#Tools-(software,-Python-libraries…))
 * [GitHub link](#GitHub-link)
 * [Streamlit APP link](#Streamlit-APP-link)
 
@@ -24,12 +28,11 @@ As of 2022, YouTube has 51+ million active channels and our friend Migul is one 
 
 𝗦𝗼,𝘄𝗲 𝗮𝘀 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝘁𝗿𝗮𝗻𝗲𝗲 𝘄𝗼𝘂𝗹𝗱 𝗹𝗶𝗸𝗲 𝘁𝗼 𝗱𝗿𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝘁𝗼 𝗵𝗮𝘃𝗲 𝗮 𝗱𝗲𝗲𝗽𝗲𝗿 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝘄𝗵𝗲𝗿𝗲 𝗵𝗶𝘀 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗽𝗼𝘀𝘁𝗶𝗼𝗻 𝗶𝘀 𝗶𝗻 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝘄𝗼𝗿𝗹𝗱 𝗮𝗻𝗱 𝗳𝗶𝗻𝗱 𝗱𝗮𝘁𝗮-𝗯𝗮𝘀𝗲𝗱 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗵𝗶𝗺. 
 
-* Here are our initial questions:
+Here are our initial questions:
 * What are YouTube Trending Videos?
 * Where is Miguel's channel positioned in YouTube trending channel?
-* How big share has this Channel compared to the rest of all others in    
-    YouTube trending videos?
-* How can he measure if his videos can be populer or not? 
+* What poportion has his Channel shares the totaly number of trending videos?
+* How can he measure if his videos can be populer or not before posting video on YouTube? 
 * What are the most popular categories in trending video?
 * Usually, how long did it take for a video to be trended?
 * Which are the videos having the greatest number of likes?
@@ -44,8 +47,8 @@ As of 2022, YouTube has 51+ million active channels and our friend Migul is one 
 * This information could be valuable to other individual content creators who are interested in increasing their view rates, or for corporate clients  who are interested in using YouTube as an avenue for content creation.
 
 ## Dataset / Source
-https://www.kaggle.com/datasets/datasnaek/youtube
-https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data
+* https://www.kaggle.com/datasets/datasnaek/youtube
+* https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data
 
 ## Data sub-fields
 The project these sub-fields of the Data World:
@@ -53,29 +56,18 @@ The project these sub-fields of the Data World:
 * 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 
               (” 
               𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻,
-              𝗣𝗼𝗽𝘂𝗹𝗮𝗿𝗶𝘁𝘆,
+              𝗥𝗮𝗻𝗱𝗼𝗺𝗳𝗼𝗿𝗲𝘀𝘁,
+              𝗣𝗼𝗽𝘂𝗹𝗮𝗿𝗶𝘁y based,
               𝗡𝗟𝗧𝗞 
               ”) 
 * 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 (𝗧𝗮𝗯𝗹𝗲𝗮𝘂)
 * 𝗠𝗼𝗱𝗲𝗹𝘀 𝗱𝗲𝗽𝗹𝗼𝘆 𝗼𝗻 𝗦𝘁𝗿𝗲𝗮𝗺𝗹𝗶𝘁;
+* 𝗚𝗶𝘁𝗛𝘂𝗯
 
-
-## Tools (software, Python libraries…)
-Analysis for this project is done by using below different tools:
-
-```
-$ GitHub
-$ Tableau
-$ Python
-$ Pandas
-$ Scikit-Learn
-$ NLTK
-$ Streamlit
-```
 
 ## GitHub link
 https://github.com/Weilingp/Youtube_Analysis
 
 ## Streamlit APP link
-https://weilingp-youtube-analysis-welcome-to-stewei-en2mx3.streamlitapp.com/
+#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-how-popular-will-your-video-b-welcome-to-stewei-1accqg.streamlitapp.com/) and let me know your comments.
 
