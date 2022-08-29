@@ -75,5 +75,5 @@ The project these sub-fields of the Data World:
 https://github.com/Weilingp/Youtube_Analysis
 
 ## Streamlit APP link
-#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-how-popular-will-your-video-b-welcome-to-stewei-1accqg.streamlitapp.com/) and let me know your comments.
+#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/) and let me know your comments.
 

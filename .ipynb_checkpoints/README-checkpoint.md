@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # How popular will Your video be on YouTube - Final Project?
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 [![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,figma&theme=light)](https://skills.thijs.gg)
+=======
+# How popular will Your video be on YouTube?
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,streamlit,figma&theme=light)](https://skills.thijs.gg)
+>>>>>>> c46cddb837447bd985a0edc52ee4bc816860d2cd
 
 
 
@@ -69,5 +75,5 @@ The project these sub-fields of the Data World:
 https://github.com/Weilingp/Youtube_Analysis
 
 ## Streamlit APP link
-#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-how-popular-will-your-video-b-welcome-to-stewei-1accqg.streamlitapp.com/) and let me know your comments.
+#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/) and let me know your comments.
 
