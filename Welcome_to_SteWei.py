@@ -1,6 +1,15 @@
 import streamlit as st
 
-st.set_page_config(page_title = "Welcome to SteWei",page_icon='▶️')
+st.set_page_config(page_title="Welcome to YouTube Analytics Porta", 
+                   page_icon=":youtube:",
+                   layout="wide",
+                   initial_sidebar_state="expanded"
+                   )
+
+def p_title(title):
+    st.markdown(f'<h3 style="text-align: left; color:#F63366; font-size:28px;">{title}</h3>', unsafe_allow_html=True)
+
+
 
 
 video = ('Video_main_page.mp4')
