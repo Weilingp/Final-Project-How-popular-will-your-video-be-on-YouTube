@@ -1,4 +1,4 @@
-# How popular will Your video be on YouTube - Final Project?
+# How popular will Your video be on YouTube?
 [![Streamlit App]
 [![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,figma&theme=light)](https://skills.thijs.gg)
 
