@@ -1,4 +1,9 @@
-# How_popular_will_Your_video_be_on_YouTube_in_GB?
+# How popular will Your video be on YouTube - Final Project?
+[![Streamlit App]
+[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,figma&theme=light)](https://skills.thijs.gg)
+
+
+
 <img width="1436" alt="图片" src="https://user-images.githubusercontent.com/104377828/186529341-036d9141-1dfd-4a33-8729-5b6a31647d89.png">
 
 ## Table of contents
@@ -64,5 +69,5 @@ The project these sub-fields of the Data World:
 https://github.com/Weilingp/Youtube_Analysis
 
 ## Streamlit APP link
-https://weilingp-youtube-analysis-welcome-to-stewei-en2mx3.streamlitapp.com/
+#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-how-popular-will-your-video-b-welcome-to-stewei-1accqg.streamlitapp.com/) and let me know your comments.
 
