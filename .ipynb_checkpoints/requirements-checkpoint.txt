@@ -27,3 +27,9 @@ wordninja==2.0.0
 scikit-learn==1.1.1
 scipy==1.7.3
 seaborn==0.11.2
+
+
+
+altair==4.2.0
+streamlit_player==0.1.5
+
