@@ -1,7 +1,6 @@
 # How popular will Your video be on YouTube?
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,streamlit,figma&theme=light)](https://skills.thijs.gg)
->>>>>>> c46cddb837447bd985a0edc52ee4bc816860d2cd
 
 
 
