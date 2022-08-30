@@ -2,7 +2,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,st,figma&theme=light)](https://skills.thijs.gg)
 
-![YouTube_Analysis_App_Demo](https://user-images.githubusercontent.com/40613836/124684289-26642700-dea5-11eb-99cf-afca7ce8ac1f.gif)
+![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
 
 ## Table of contents
 * [General info](#general-info)
