@@ -1,10 +1,8 @@
-# How popular will Your video be on YouTube?
+# How Popular Will Your Video Be on YouTube?
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,st,figma&theme=light)](https://skills.thijs.gg)
 
-
-
-<img width="1436" alt="图片" src="https://user-images.githubusercontent.com/104377828/186529341-036d9141-1dfd-4a33-8729-5b6a31647d89.png">
+![YouTube_Analysis_App_Demo](https://user-images.githubusercontent.com/40613836/124684289-26642700-dea5-11eb-99cf-afca7ce8ac1f.gif)
 
 ## Table of contents
 * [General info](#general-info)
