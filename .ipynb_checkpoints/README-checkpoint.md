@@ -12,6 +12,8 @@
 * [GitHub link](#GitHub-link)
 * [Streamlit APP link](#Streamlit-APP-link)
 
+## Table of Notebooks
+* [Notebook ML Popularity Prediction](#Model_to_predict_trending_video.ipynb)
 
 ## General info
 This is the final project for my Data Science BootCamp by WBS Coding School in 2022.
