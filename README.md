@@ -7,7 +7,7 @@
 
 ## Live Presentation Video
 
-### Watch the presentation here :point_right: [![Tiktok](https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png)]([https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/](https://www.tiktok.com/@mspengde/video/7144072405466549510?is_from_webapp=1&sender_device=pc&web_id=7117239638406022662)) and let me know your comments.
+### Watch the presentation here :point_right: [![Tiktok](https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png)](https://vm.tiktok.com/ZMF1oUrdV/) and let me know your comments.
 
 
 ## Table of contents
