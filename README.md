@@ -4,6 +4,13 @@
 
 ![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
 
+
+## Live Presentation Video
+Watch and listen the presentation here:point_right: [![Google share](https://drive.google.com/file/d/1n2knII2Mw0Jp9ZtI0jGR0lp6UHvroJ1J/view?usp=sharing/googleshare_badge_black_white.svg)]
+
+https://drive.google.com/file/d/1n2knII2Mw0Jp9ZtI0jGR0lp6UHvroJ1J/view?usp=sharing
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Project Description](#Project-Description)
@@ -11,9 +18,6 @@
 * [Data sub-fields](#Data-sub-fields)
 * [GitHub link](#GitHub-link)
 * [Streamlit APP link](#Streamlit-APP-link)
-
-## Table of Notebooks
-<a>Model_to_predict_trending_video.ipynb</a>
 
 ## General info
 This is the final project for my Data Science BootCamp by WBS Coding School in 2022.
@@ -47,7 +51,7 @@ Here are our initial questions:
 * This information could be valuable to other individual content creators who are interested in increasing their view rates, or for corporate clients  who are interested in using YouTube as an avenue for content creation.
 
 ## Dataset / Source
-* https://www.kaggle.com/datasets/datasnaek/youtube
+* [!kaggle]https://www.kaggle.com/datasets/datasnaek/youtube
 * https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data
 
 ## Data sub-fields
