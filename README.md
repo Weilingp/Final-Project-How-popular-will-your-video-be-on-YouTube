@@ -1,28 +1,29 @@
-# How Popular Will Your Video Be on YouTube?
-
-[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,st,figma&theme=light)](https://skills.thijs.gg)
-
-![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
-
-
-### Live Presentation Speech
-point_right:[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
->>>>>>> 2ad86974238b6934eda4e52b363a5717037ba671
-
-## Table of contents
-* [General info](#general-info)
-* [Project Description](#Project-Description)
-* [Dataset / Source](#Dataset-/-Source)
-* [Data sub-fields](#Data-sub-fields)
-* [GitHub link](#GitHub-link)
-* [Streamlit APP link](#Streamlit-APP-link)
+# How Popular Will Your Video Be on YouTube? A Data Science and Machine Learning Project
 
 ## General info
 This is the final project for my Data Science BootCamp by WBS Coding School in 2022.
 
 YouTube is the second-largest search engine in the world, just next to Google. YouTube has a list of trending videos that is updated constantly. Analyzing these trending videos can give content creators greater perspective and knowledge for increasing their popularity and brand of their channels.
 Besides helping professional YouTubers achieve their successful video marketing business, we also wish to support other non-professional YouTubers to improve their video more exposure rate and ultimately get the videos trended to match wide number of knowledge-searchers.
-As of 2022, YouTube has 51+ million active channels and our friend Miguel is one of the YouTuber creators. He made more than 100 videos and posted on different social median platforms. 
+
+### Live Presentation Speech :point_down:
+[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
+
+## Table of contents 
+* [General info](#general-info)
+* [Project Description](#Project-Description)
+* [Dataset / Source](#Dataset-/-Source)
+* [Data sub-fields](#Data-sub-fields)
+* [GitHub link](#GitHub-link)
+* [Streamlit APP link](#Streamlit-APP-link)
+* 
+
+## Project Description
+* The goal of this project is to analyze and predict what YouTube videos are trending from a dataset scraped from YouTube’s Trending Page, in order to find common characteristics of trending videos and attempt to predict and reproduce results.
+* To answer Miguel's business question and find solution for him to sort out spam comment and save time to read real opinions from his ancients efficiently. 
+* This information could be valuable to other individual content creators who are interested in increasing their view rates, or for corporate clients  who are interested in using YouTube as an avenue for content creation.
+* As of 2022, YouTube has 51+ million active channels and our friend Miguel is one of the YouTuber creators. He made more than 100 videos and posted on different social median platforms. 
+
 
 𝗕𝘂𝘁 𝗵𝗲 𝗵𝗮𝘀 𝘁𝘄𝗼 𝗺𝗮𝗷𝗼𝗿 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀. 
 * He does not know how to make video popular or get video possible trended.
@@ -42,11 +43,11 @@ Here are our initial questions:
 * What are the title types used in trending videos: positive, negative, neutral? 
 * Has more negative title higher number of views?
 
+## APP Demo  
+[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,st,figma&theme=light)](https://skills.thijs.gg)
 
-## Project Description
-* The goal of this project is to analyze and predict what YouTube videos are trending from a dataset scraped from YouTube’s Trending Page, in order to find common characteristics of trending videos and attempt to predict and reproduce results.
-* To answer Miguel's business question and find solution for him to sort out spam comment and save time to read real opinions from his ancients efficiently. 
-* This information could be valuable to other individual content creators who are interested in increasing their view rates, or for corporate clients  who are interested in using YouTube as an avenue for content creation.
+![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
+
 
 ## Dataset / Source
 * [!kaggle]https://www.kaggle.com/datasets/datasnaek/youtube
