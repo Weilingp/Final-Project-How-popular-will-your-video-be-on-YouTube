@@ -6,7 +6,7 @@
 
 
 ### Live Presentation Speech
-point_right:[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
+:point_right:[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
 
 ## Table of contents
 * [General info](#general-info)
