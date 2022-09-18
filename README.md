@@ -54,8 +54,8 @@ Here are our initial questions:
 #### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/) and let me know your comments.
 
 ## Dataset / Source
-* [![YouTube.csv](https://cdn.worldvectorlogo.com/logos/kaggle-1.svg)width="30%"](https://www.kaggle.com/datasets/datasnaek/youtube)
-* [![Comments.csv](https://cdn.worldvectorlogo.com/logos/kaggle-1.svg)width="30%"](https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data)
+* [![YouTube.csv](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png)](https://www.kaggle.com/datasets/datasnaek/youtube)
+* [![Comments.csv](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png)](https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data)
 
 ## Data sub-fields
 The project these sub-fields of the Data World:
