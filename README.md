@@ -1,6 +1,6 @@
 # How Popular Will Your Video Be on YouTube? 
 ### A Data Science and Machine Learning Project
-[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,slt,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,figma&theme=light)](https://skills.thijs.gg)
 ## General info
 This is the final project for my Data Science BootCamp by WBS Coding School in 2022.
 
