@@ -7,7 +7,7 @@ YouTube is the second-largest search engine in the world, just next to Google. Y
 Besides helping professional YouTubers achieve their successful video marketing business, we also wish to support other non-professional YouTubers to improve their video more exposure rate and ultimately get the videos trended to match wide number of knowledge-searchers.
 
 ### Live Presentation Speech :point_down:
-[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
+[<img src="presenation_cover_page.png" width="100%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
 
 ## Table of contents 
 * [General info](#general-info)
