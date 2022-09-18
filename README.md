@@ -8,8 +8,14 @@
 ## Live Presentation Video
 
 ### Watch the presentation here :point_right: [![Tiktok](https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png)](https://vm.tiktok.com/ZMF1oUrdV/) and let me know your comments.
-
-point_right: [![Watch Video here]([https://youtu.be/StTqXEQ2l-Y?t=35s](https://youtu.be/sHTMkjETLpc) "Presation Speech")
+<div align="left">
+      <a href="[https://www.youtube.com/watch?v=5yLzZikS15k](https://youtu.be/sHTMkjETLpc)">
+         <img src="[https://img.youtube.com/vi/5yLzZikS15k/0.jpg](https://drive.google.com/file/d/1xVb2jq_7XSqRFMaVXOrtHA_6DZPOzhVx/view?usp=sharing)" style="width:100%;">
+      </a>
+</div>
+<iframe width="1280" height="1023" 
+        src="https://www.youtube.com/embed/sHTMkjETLpc" 
+        title="How popular will your video be on YouTube? A data science & machine learning project." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Table of contents
 * [General info](#general-info)
