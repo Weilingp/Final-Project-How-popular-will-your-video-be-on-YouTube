@@ -5,15 +5,8 @@
 ![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
 
 
-## Live Presentation Video
-<<<<<<< HEAD
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-=======
-
-### Watch the presentation here :point_right: [![Tiktok](https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png)](https://vm.tiktok.com/ZMF1oUrdV/) and let me know your comments.
-
-### Presentation Speech
-[<img src="https://drive.google.com/file/d/1xVb2jq_7XSqRFMaVXOrtHA_6DZPOzhVx/view?usp=sharing" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
+### Live Presentation Speech
+point_right:[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
 >>>>>>> 2ad86974238b6934eda4e52b363a5717037ba671
 
 ## Table of contents
