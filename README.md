@@ -73,7 +73,7 @@ The project these sub-fields of the Data World:
 
 
 ## GitHub Link 
-[![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/Weilingp/Youtube_Analysis):point_left:
+:point_right:[![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/Weilingp/Youtube_Analysis):point_left:
 
 
 
