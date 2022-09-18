@@ -10,7 +10,7 @@
 ### Watch the presentation here :point_right: [![Tiktok](https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png)](https://vm.tiktok.com/ZMF1oUrdV/) and let me know your comments.
 
 ### Presentation Speech
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://drive.google.com/file/d/1xVb2jq_7XSqRFMaVXOrtHA_6DZPOzhVx/view?usp=sharing" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
 
 ## Table of contents
 * [General info](#general-info)
