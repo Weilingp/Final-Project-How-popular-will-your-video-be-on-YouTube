@@ -9,11 +9,9 @@
 
 ### Watch the presentation here :point_right: [![Tiktok](https://seeklogo.com/images/T/tiktok-icon-logo-1CB398A1BD-seeklogo.com.png)](https://vm.tiktok.com/ZMF1oUrdV/) and let me know your comments.
 
-<iframe width="1280" height="1023" 
-      src="https://www.youtube.com/embed/sHTMkjETLpc" 
-      title="How popular will your video be on YouTube? A data science & machine learning project." 
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen></iframe>
+### Presentation Speech
+<iframe width="500" height="300" src="https://www.youtube.com/embed/<VIDEO_ID>" frameborder="0" allowfullscreen></iframe>
+
 
 ## Table of contents
 * [General info](#general-info)
