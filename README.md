@@ -1,5 +1,6 @@
-# How Popular Will Your Video Be on YouTube? A Data Science and Machine Learning Project
-
+# How Popular Will Your Video Be on YouTube? 
+### A Data Science and Machine Learning Project
+[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,st,figma&theme=light)](https://skills.thijs.gg)
 ## General info
 This is the final project for my Data Science BootCamp by WBS Coding School in 2022.
 
@@ -46,7 +47,6 @@ Here are our initial questions:
 * Has more negative title higher number of views?
 
 ## APP Demo  
-[![My Skills](https://skills.thijs.gg/icons?i=git,mysql,py,st,figma&theme=light)](https://skills.thijs.gg)
 
 ![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
 
