@@ -5,10 +5,10 @@
 ![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
 
 
-### Live Presentation Speech
-:point_right:[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
+### Live Presentation Speech :point_down:
+[!youtube][<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
 
-## Table of contents :point_down:
+## Table of contents 
 * [General info](#general-info)
 * [Project Description](#Project-Description)
 * [Dataset / Source](#Dataset-/-Source)
