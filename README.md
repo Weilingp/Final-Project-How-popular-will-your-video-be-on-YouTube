@@ -6,17 +6,19 @@ This is the final project for my Data Science BootCamp by WBS Coding School in 2
 YouTube is the second-largest search engine in the world, just next to Google. YouTube has a list of trending videos that is updated constantly. Analyzing these trending videos can give content creators greater perspective and knowledge for increasing their popularity and brand of their channels.
 Besides helping professional YouTubers achieve their successful video marketing business, we also wish to support other non-professional YouTubers to improve their video more exposure rate and ultimately get the videos trended to match wide number of knowledge-searchers.
 
-||### Live Presentation Speech :point_down:||
+### Live Presentation Speech :point_down:
 [<img src="presenation_cover_page.png" width="100%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
 
 ## Table of contents 
 * [General info](#general-info)
+* [Live Presentation Speech](#Live-Presentation-Speech)
 * [Project Description](#Project-Description)
+* [APP Demo](#APP-Demo)
+* [Streamlit APP link](#Streamlit-APP-link)
 * [Dataset / Source](#Dataset-/-Source)
 * [Data sub-fields](#Data-sub-fields)
 * [GitHub link](#GitHub-link)
-* [Streamlit APP link](#Streamlit-APP-link)
-* 
+
 
 ## Project Description
 * The goal of this project is to analyze and predict what YouTube videos are trending from a dataset scraped from YouTube’s Trending Page, in order to find common characteristics of trending videos and attempt to predict and reproduce results.
@@ -48,10 +50,12 @@ Here are our initial questions:
 
 ![YouTube_Analysis_App_Demo](ezgif.com-gif-maker.gif)
 
+## Streamlit APP link
+#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/) and let me know your comments.
 
 ## Dataset / Source
-* [!kaggle]https://www.kaggle.com/datasets/datasnaek/youtube
-* https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data
+* [![kaggle]](https://www.kaggle.com/datasets/datasnaek/youtube)
+* [![kaggle]](https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data)
 
 ## Data sub-fields
 The project these sub-fields of the Data World:
@@ -71,6 +75,4 @@ The project these sub-fields of the Data World:
 ## GitHub link
 https://github.com/Weilingp/Youtube_Analysis
 
-## Streamlit APP link
-#### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/) and let me know your comments.
 
