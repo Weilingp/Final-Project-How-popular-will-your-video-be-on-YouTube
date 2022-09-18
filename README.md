@@ -7,7 +7,6 @@
 
 ### Live Presentation Speech
 point_right:[<img src="presenation_cover_page.png" width="50%">](https://youtu.be/sHTMkjETLpc "Now in Android: 55")
->>>>>>> 2ad86974238b6934eda4e52b363a5717037ba671
 
 ## Table of contents
 * [General info](#general-info)
