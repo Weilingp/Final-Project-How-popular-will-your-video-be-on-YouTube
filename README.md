@@ -54,8 +54,8 @@ Here are our initial questions:
 #### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/) and let me know your comments.
 
 ## Dataset / Source
-* [YouTube.csv_kaggle_link-here](https://www.kaggle.com/datasets/datasnaek/youtube)
-* [Comments.csv_kaggle_link_here](https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data)
+[![YouTube_csv_kaggle_link-here]](https://www.kaggle.com/datasets/datasnaek/youtube)
+[![Comments_csv_kaggle_link_here]](https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data)
 
 
 ## Data sub-fields
