@@ -54,13 +54,13 @@ Here are our initial questions:
 #### Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weilingp-final-project-how-popular-wil-welcome-to-stewei-d8hjsv.streamlitapp.com/) and let me know your comments.
 
 ## Dataset / Source
-[![YouTube_csv_kaggle_link-here]](https://www.kaggle.com/datasets/datasnaek/youtube)
-[![Comments_csv_kaggle_link_here]](https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data)
+* [![YouTube_csv_kaggle_link-here]](https://www.kaggle.com/datasets/datasnaek/youtube)
+* [![Comments_csv_kaggle_link_here]](https://www.kaggle.com/code/alaaalghmdi/how-popular-will-this-video-be-on-youtub/data)
 
 
 ## Data sub-fields
 The project these sub-fields of the Data World:
-*  𝗣𝘆𝘁𝗵𝗼𝗻, 𝗣𝗮𝗻𝗱𝗮𝘀 
+* 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗣𝗮𝗻𝗱𝗮𝘀 
 * 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 
               (” 
               𝗖𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻,
